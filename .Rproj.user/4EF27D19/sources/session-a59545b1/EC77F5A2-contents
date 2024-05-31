@@ -7,7 +7,7 @@ format:
   revealjs:
     theme: solarized
     logo: img/bolt.png
-    footer: "codetocontent-netlify.com"
+    footer: "2024-codetocontent.netlify.app"
     incremental: true 
 ---
 
