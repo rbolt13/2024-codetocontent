@@ -1,0 +1,18 @@
+# CRAN
+install.packages("webshot2")
+
+# Development
+remotes::install_github("rstudio/webshot2")
+
+library("webshot2")
+
+webshot(c(
+  "https://2024-codetocontent.netlify.app/#/title-slide",
+  "https://2024-codetocontent.netlify.app/#/agenda",
+  "https://2024-codetocontent.netlify.app/#/why",
+  "https://2024-codetocontent.netlify.app/#/how",
+  "https://2024-codetocontent.netlify.app/#/what",
+  "https://2024-codetocontent.netlify.app/#/where-p1",
+  "https://2024-codetocontent.netlify.app/#/where-p2",
+  "https://2024-codetocontent.netlify.app/#/thank-you"
+))
