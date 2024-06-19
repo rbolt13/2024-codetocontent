@@ -9,3 +9,5 @@ These slides were presented at Cascadia R Conference June 22, 2024.
 * [Cascadia R Conference](https://cascadiarconf.com/)
 
 * [rbolt.me](https://www.rbolt.me/)
+
+* [Code to Content Lighting Talk 2](https://www.rbolt.me/blog/technical-blog/posts/20240612-original-codetocontentslides2/)
