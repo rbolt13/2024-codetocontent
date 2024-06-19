@@ -8,4 +8,4 @@ These slides were presented at [Cascadia R Conference](https://cascadiarconf.com
 
 * [rbolt.me](https://www.rbolt.me/)
 
-* [Code to Content Lighting Talk 2 - Blog Post with slides, speech, and notes](https://www.rbolt.me/blog/technical-blog/posts/20240612-original-codetocontentslides2/)
+* [Code to Content Lighting Talk 2](https://www.rbolt.me/blog/technical-blog/posts/20240612-original-codetocontentslides2/) - Blog Post with slides, speech, and notes
